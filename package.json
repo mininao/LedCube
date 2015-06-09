@@ -1,0 +1,25 @@
+{
+  "name": "LedCube",
+  "version": "1.0.0",
+  "description": "Code to manage a 3x3x3 RGB Led display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mininao/LedCube.git"
+  },
+  "author": "Maxence Aïci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mininao/LedCube/issues"
+  },
+  "homepage": "https://github.com/mininao/LedCube",
+  "dependencies": {
+    "dualshock-controller": "^0.6.7",
+    "keypress": "^0.2.1",
+    "lodash": "^3.9.3",
+    "serialport": "^1.7.4"
+  }
+}
